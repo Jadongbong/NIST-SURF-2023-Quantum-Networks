@@ -2,6 +2,7 @@
 Code and data for my smmer research. 
 
 Explanation of file names:
+
 Names of the data folders:
 - All the parameters of the data collection on the name of the data folder. It should be self-explanatory by the units which number is bin size, number of bins, number of histograms, integration time, etc. When processing data, ensure that these parameters match the corresponding parameters in the code for data processing. 
 
