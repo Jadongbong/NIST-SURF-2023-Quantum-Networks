@@ -9,3 +9,4 @@ In the data folders:
 - Time corresponds to the real time of each histogram. Time and Data should be of the same length, so each element in Time corresponds to the real time of when the histogram in Data was taken. 
 - Data corresponds to the full data. In most cases this is a 2d array, where each element is an array representing a histogram. The bin size and number of bins can be obtained from the folder name. 
 - Peaks is a 1d array where each element is the peak of each histogram in Data. 
+- Some of the data folders have miscellaneous files. The important files are the ones ending in .npy and .png, as these are the data and figures. Any other file was created for various miscellaneous purposes. 
